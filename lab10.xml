@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<items>
+    <item>
+        <name>Bread</name>
+        <price>1.49</price>
+        <quantity>3</quantity>
+    </item>
+    <item>
+        <name>Bacon</name>
+        <price>1.24</price>
+        <quantity>2</quantity>
+    </item>
+    <item>
+        <name>Lettuce</name>
+        <price>0.67</price>
+        <quantity>1</quantity>
+    </item>
+    <item>
+        <name>Tomato</name>
+        <price>0.29</price>
+        <quantity>4</quantity>
+    </item>
+</items>
